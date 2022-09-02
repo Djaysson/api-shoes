@@ -54,84 +54,84 @@
       "id": 1,
       "title": "Tênis Nike Downshifter Masculino",
       "price": 179.9,
-      "currentPrice": 101.0,
+      "previousValue": 401.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-nike-downshifter-11-masculino/50/HZM-5208-050/HZM-5208-050_zoom5.jpg?ts=1620698859&"
     },
     {
       "id": 2,
       "title": "Tênis Esportivo Casual da advanced",
       "price": 200,
-      "currentPrice": 121.0,
+      "previousValue": 321.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-esportivo-casual-masculino-tecido-com-cadarco-e-sola-detalhada/06/CZ5-0005-006/CZ5-0005-006_zoom2.jpg?ts=1658822941&?ims=544xhttps://static.netshoes.com.br/produtos/tenis-esportivo-casual-masculino-tecido-com-cadarco-e-sola-detalhada/06/CZ5-0005-006/CZ5-0005-006_zoom2.jpg?ts=1658822941&?ims=1088x"
     },
     {
       "id": 3,
       "title": "Tênis Nike Venture Runner Masculino",
       "price": 359.7,
-      "currentPrice": 221.0,
+      "previousValue": 521.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-nike-venture-runner-masculino/40/HZM-3712-040/HZM-3712-040_zoom5.jpg?ts=1622142554&"
     },
     {
       "id": 4,
       "title": "Tênis Nike Renew Elevate",
       "price": 135.8,
-      "currentPrice": 116.0,
+      "previousValue": 216.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-nike-renew-elevate/68/HZM-4098-068/HZM-4098-068_zoom2.jpg?ts=1604600885&"
     },
     {
       "id": 5,
       "title": "Tênis Nike Legend Essential Masculino",
       "price": 228.4,
-      "currentPrice": 101.0,
+      "previousValue": 301.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-nike-legend-essential-2-masculino/12/HZM-4400-112/HZM-4400-112_zoom5.jpg?ts=1621481687&"
     },
     {
       "id": 6,
       "title": "Tênis Asics Gel-Lyte Masculino Brancoverde Limao",
       "price": 159.5,
-      "currentPrice": 95.0,
+      "previousValue": 395.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-asics-gel-lyte-iii-masculino-brancoverde-limao-38/07/2FV-7108-407/2FV-7108-407_zoom1.jpg?ts=1622310506"
     },
     {
       "id": 7,
       "title": "Tênis Columbia Drainmaker Masculino",
       "price": 199.0,
-      "currentPrice": 161.0,
+      "previousValue": 261.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-columbia-drainmaker-iv-masculino/10/D45-0938-010/D45-0938-010_zoom3.jpg?ts=1622140254&"
     },
     {
       "id": 8,
       "title": "Tênis Bebe Infantil Casual Menino",
       "price": 210.0,
-      "currentPrice": 181.0,
+      "previousValue": 381.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-bebe-e-infantil-casual-fxb-menino/48/LUR-0020-048/LUR-0020-048_zoom1.jpg?ts=1622658362"
     },
     {
       "id": 9,
       "title": "TênisNike Revolution Masculino",
       "price": 240.6,
-      "currentPrice": 129.0,
+      "previousValue": 429.0,
       "image": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/44/HZM-1731-844/HZM-1731-844_zoom1.jpg?ts=1604057285"
     },
     {
       "id": 10,
       "title": "Tênis Adidas Kaptir 2.0 Masculino",
       "price": 499.99,
-      "currentPrice": 314.99,
+      "previousValue": 614.99,
       "image": "https://static.netshoes.com.br/produtos/tenis-adidas-kaptir-20-masculino/28/3ZP-1049-028/3ZP-1049-028_zoom1.jpg?ts=1646918401&?ims=544xhttps://static.netshoes.com.br/produtos/tenis-adidas-kaptir-20-masculino/28/3ZP-1049-028/3ZP-1049-028_zoom1.jpg?ts=1646918401&?ims=1088x"
     },
     {
       "id": 11,
       "title": "Tênis Adidas Grand Court Base Beyond",
       "price": 349.99,
-      "currentPrice": 206.99,
+      "previousValue": 506.99,
       "image": "https://static.netshoes.com.br/produtos/tenis-adidas-grand-court-base-beyond-masculino/24/3ZP-3948-024/3ZP-3948-024_zoom1.jpg?ts=1643208757&?ims=544xhttps://static.netshoes.com.br/produtos/tenis-adidas-grand-court-base-beyond-masculino/24/3ZP-3948-024/3ZP-3948-024_zoom1.jpg?ts=1643208757&?ims=1088x"
     },
     {
       "id": 12,
       "title": "Tênis Mizuno Cometa - Preto",
       "price": 299.99,
-      "currentPrice": 170.99,
+      "previousValue": 470.99,
       "image": "https://static.netshoes.com.br/produtos/tenis-mizuno-cometa/26/2FU-5849-026/2FU-5849-026_zoom1.jpg?ts=1643916928&ims=544x"
     }
   ]
